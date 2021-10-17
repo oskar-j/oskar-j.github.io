@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Welcome to my blog!"
+title: "Online machine learning vs. week supervision"
 author: "OskarJ"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: cutting.jpg
 ---
 
-...
+An upcoming new blog post.

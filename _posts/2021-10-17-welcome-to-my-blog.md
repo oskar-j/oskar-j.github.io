@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Welcome to my blog!"
+author: "OskarJ"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: card.jpg
 ---
 
-...
+My first blog
